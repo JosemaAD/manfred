@@ -224,6 +224,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
