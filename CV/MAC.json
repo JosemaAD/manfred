@@ -32,6 +32,27 @@
     "jobs": [
       {
         "organization": {
+          "name": "Disruptivos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/12/f810e2db-c3ea-4722-a723-44be36c385d0_7315f6fe-7128-45cd-b.png",
+            "alt": "7315f6fe-7128-45cd-bf98-806f8e5093ee.png"
+          },
+          "URL": "https://www.disruptivos.com/"
+        },
+        "roles": [
+          {
+            "name": "Team Leader",
+            "startDate": "2024-05-01",
+            "challenges": [
+              {
+                "description": "Con las riendas de mi propio equipo en Disruptivos, me encargo de la gestión de nuestros recursos (especialistas, tiempos, presupuestos y scope) para la gestión y realización de proyectos digitales. \n\nEntre estos clientes de diferente naturaleza (ecommerce, generación de leads, productos digitales) trabajamos los diferentes canales: tráfico orgánico, email marketing y CRM, analítica, Inbound, etc... para optimizar los activos digitales de nuestros clientes. En paralelo, llevamos a cabo diferentes side-projects en los sites de clientes para optimizar estos canales y hacer upgrades/upselling de proyectos como: nuevas funcionalidades, mejoras web, rediseños y/o migraciones, etc. \n\nAdemás, como Head del departamento de email marketing me encargo de la cualificación, atención y definición de propuesta de trabajo de los leads que llegan a Disruptivos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad de Málaga",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/2b79c407-d627-4af7-aba1-b1b2a7ff76b0_linkedin-photo-52058.linkedin-photo-52058",
