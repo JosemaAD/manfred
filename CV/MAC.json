@@ -222,6 +222,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer",
         "Growth Manager",
