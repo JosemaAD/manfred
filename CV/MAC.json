@@ -222,18 +222,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "React",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Frontend Developer",
         "Growth Manager",
