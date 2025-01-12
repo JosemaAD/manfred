@@ -1,0 +1,272 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Josema",
+      "surnames": "Aranda Delgado",
+      "title": "Frontend Developer",
+      "description": "Desarrollador Front-end en Málaga\nActualmente desarrollo y hago soporte en proyectos Wordpress + Woocommerce.\nLos diferentes lenguajes y frameworks que uso:\n- PHP\n- Javascript\n- HTML\n- CSS(Flexbox y Grid) - SASS\n- Bootstrap\n- jquery\n\nAdemás estoy especializado integraciones de CRM, en concreto en Mailchimp y Zoho. Además de:\n- Maquetación HTML de emails responsives\n- Formularios y desarrollos de API de Mailchimp\n- Tratamiento de Base de Datos\n\nEn mi metodología de trabajo hago uso de buenas prácticas como:\n- Control de versiones con GIT - Github\n- Testing en local: WAMP, Flywheel",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/b768e420-780e-4174-8131-05a85d462f95_linkedin-photo-52058.linkedin-photo-52058",
+        "alt": "24/01/12/b768e420-780e-4174-8131-05a85d462f95_linkedin-photo-52058.linkedin-photo-52058"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/josema-aranda-delgado-99220212a"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Universidad de Málaga",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/2b79c407-d627-4af7-aba1-b1b2a7ff76b0_linkedin-photo-52058.linkedin-photo-52058",
+            "alt": "24/01/12/2b79c407-d627-4af7-aba1-b1b2a7ff76b0_linkedin-photo-52058.linkedin-photo-52058"
+          }
+        },
+        "roles": [
+          {
+            "name": "Profesor universitario asistente",
+            "startDate": "2023-02-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Taller 100% práctico de @Mailchimp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Disruptivos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/f59a1076-e172-4943-b73d-e7feb67a88f7_linkedin-photo-52058.linkedin-photo-52058",
+            "alt": "24/01/12/f59a1076-e172-4943-b73d-e7feb67a88f7_linkedin-photo-52058.linkedin-photo-52058"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend developer - CRM Specialist",
+            "startDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y mantenimiento de sitios web en Wordpress y PHP. Dentro del entorno Wordpress tengo experiencia con la creación de themes, plugins y cualquier otro tipo de funcionalidad.\nDesarrollo y creación de nuevas funcionalidades con PHP y Javascript.\nConexiones e integraciones de API.\nGestión de tareas y del equipo de CRM.\nAtención y cualificación de leads.\nGestión básica de base de datos en phpmyadmin y entornos web."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Asociación de Parques Científicos y Tecnológicos de España (APTE)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/51e45e04-8d89-492d-8964-7a18993c0402_linkedin-photo-52058.linkedin-photo-52058",
+            "alt": "24/01/12/51e45e04-8d89-492d-8964-7a18993c0402_linkedin-photo-52058.linkedin-photo-52058"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de Departamento de Comunicación y Marketing",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Después de un año como Becario en la Asociación promocioné como Responsable del Departamento de Comunicación y Marketing de la Asociación de Parques Científicos y Tecnológicos de España (APTE). Asumiendo las responsabilidades del departamento y llevando a cabo tareas como:\n\n- La estrategia de marketing digital de APTE: especializándome con herramientas como Sistrix, Google Analytics, Google Search Console, Google Speed Insights, Hootsuite y la generación de contenido de calidad. Planificación, ejecución y control de la estrategia SEO de la Asociacion. Y seguimiento de la Analítica en\n- Gestión de campañas de Google Adwords basadas en objetivos de leads.\n- La gestión de redes sociales: Establecimiento de KPIs, generación de contenido, escucha activa, monitorización y análisis de resultados.\n- Edición, diseño y maquetación de publicaciones impresas de APTE: Llevé a cabo un rediseño y transformación de la publicación trimestral APTEtechno. Revista de la Asociación de una tirada de 26.000 ejemplares anuales a nivel nacional.\n- Gestión de proyectos: Dentro de la Asociación tuve la responsabilidad de gestionar proyectos empresariales y de comunicación:\no Enterprise Eurolodging: Proyecto internacional, que persigue el fomento de la internacionalización de Start-ups entre Parques Científicos y Tecnológicos de todo el mundo.\no Colaboración con la Revista EMPRENDEDORES.\n- Gestión y Estrategia de la marca APTE: Siendo el Branding una de mis especializaciones, me encargue de aplicar esta disciplina de trabajo en la Asociación. Con el fin de conseguir una marca diferente, relevante, notoria y con alcance."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaPHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WooCommerce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/josema-aranda-delgado-99220212a",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Bootstrap",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "WordPress",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría trabajar en un equipo de desarrollo con otros compañeros y compañeras para poder aprender de ellos y aportar mi granito de arena. Además de explorar otras tecnológicas y frameworks como React, no estancarnos en un Shackleton tecnológico. \n\nVengo de una agencia de marketing por lo que estoy muy ilusionado por trabajar en un producto digital, necesito cambiar del servicio.\n\nMe gustaría tener un plan de carrera en mi empresa y formación. \n\n\n"
+  }
+}
