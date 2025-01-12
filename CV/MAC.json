@@ -224,6 +224,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "WooCommerce",
           "type": "technology"
         },
