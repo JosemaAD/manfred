@@ -244,7 +244,12 @@
         "Project Manager & Delivery Manager"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
@@ -269,6 +274,6 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me gustaría trabajar en un equipo de desarrollo con otros compañeros y compañeras para poder aprender de ellos y aportar mi granito de arena. Además de explorar otras tecnológicas y frameworks como React, no estancarnos en un Shackleton tecnológico. \n\nVengo de una agencia de marketing por lo que estoy muy ilusionado por trabajar en un producto digital, necesito cambiar del servicio.\n\nMe gustaría tener un plan de carrera en mi empresa y formación. \n\n\n"
+    "desiredJobDescription": "Me gustaría trabajar en un equipo de desarrollo con otros compañeros y compañeras para poder aprender de ellos y aportar mi granito de arena. Además de explorar otras tecnológicas y frameworks como React, no estancarnos en un Shackleton tecnológico. \n\nVengo de una agencia de marketing por lo que estoy muy ilusionado por trabajar en un producto digital, necesito cambiar del tercio.\n\nMe gustaría tener un plan de carrera en mi empresa y formación. \n\n\n"
   }
 }
